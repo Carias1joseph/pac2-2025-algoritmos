@@ -1,0 +1,43 @@
+/* 
+Selectores
+1. Etiqueta: body,p, ul...
+2. Clases: Inician con punto
+3. id: identificador único de elementos html.
+*/
+
+body 
+{
+    background-color: #1c1c1c; 
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.contenido {
+    max-width: 600px;
+    margin: 50px auto;
+
+}
+
+h1 {
+    color: #ffcc00;
+}
+
+a {
+    color: #ffcc00;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.hashtag {
+    color: #0c6;
+}
