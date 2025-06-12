@@ -12,4 +12,9 @@ function ejempli (){
 
 let producto = "Semita";
 producto=20;
+producto = true;
+producto = null;
 console.log(producto);
+
+precio = 30;
+console.log(precio);
