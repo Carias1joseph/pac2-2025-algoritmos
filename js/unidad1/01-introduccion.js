@@ -1,11 +1,16 @@
-// alert("Hola Mundo, desde un archivo de JS.")
+alert("Hola mundo, desde un archivo de JS.")
 
-//comentario de una linea
+// comentario de una linea
 
-//const nombre = prompt("Cual es su nombre?")
+/*
+Comentario
+de 
+varias 
+lineas
+*/
+
+const nombre = prompt("Cual es su nombre?");
 // console.log(nombre)
 
-//document.querySelector('.contenido')
-//.innerHTML = `${nombre} esta estudiando Ingeniería en Sistemas Computacionales.`
-
+document.querySelector('.contenido').innerHTML = `${nombre} esta estudiando Ingeniería en Sistemas Computacionales.`;
 

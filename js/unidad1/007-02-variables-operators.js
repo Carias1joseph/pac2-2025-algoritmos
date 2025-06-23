@@ -34,3 +34,4 @@ console.log(numero1  !== Number.parseInt(numero2));
 
 
 
+
